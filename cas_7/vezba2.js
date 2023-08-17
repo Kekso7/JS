@@ -25,7 +25,7 @@ while (true) {
 	var sirina = parseInt(sirinaDugmeta);
 
 	if (visina < 50 || sirina < 50) {
-		alert("Ni visina ni sirina ne smeju biti manje od 50");
+		alert("Ni visina ni sirina ne sme biti manje od 50");
 	} else {
 		dugme.style.height = visina + "px";
 		dugme.style.width = sirina + "px";
