@@ -1,0 +1,14 @@
+#kocke {
+	gap: 5px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.bojaKocke {
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+
+.bojaKocke:nth-child(even) {
+	background: blue;
+}
