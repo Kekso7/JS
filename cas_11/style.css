@@ -1,0 +1,13 @@
+.monkeys {
+    width: 200px;
+      transition:1s ease-in-out;
+}
+
+.zoom {
+    transform: scale(1.5);
+  
+}
+
+#paraHolder {
+    background-color: red;
+}
