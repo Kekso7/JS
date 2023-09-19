@@ -1,0 +1,13 @@
+#hiddenMessage {
+	display: none;
+}
+
+#wrongUsername,
+#wrongPassword {
+	color: red;
+	display: none;
+}
+
+#container {
+	background-color: blue;
+}
