@@ -1,0 +1,41 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #5a4334;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	gap: 5rem;
+}
+
+html {
+	font-size: 10px;
+	
+}
+
+button {
+	
+	padding: 20px;
+    border-radius: 20px;
+	color: rgb(56, 53, 46);
+	font-size: 2rem;
+	cursor: pointer;
+	text-transform: uppercase;
+}
+
+
+.topliGrad {
+	color: red;
+}
+
+.hladniGrad {
+	color: rgb(35, 199, 253);
+}
+#ispisiGradove p {
+	font-size: 3.2rem;
+}
